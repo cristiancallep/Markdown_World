@@ -1,4 +1,4 @@
-# 🐱‍👤 **Hola, soy Cristian Calle** 🐱‍👤
+# 🤖 **Hola, soy Cristian Calle** 🤖
 
 ***
 
