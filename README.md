@@ -22,10 +22,12 @@ Soy **curioso**, **proactivo** y **autodidacta**, constantemente estoy aprendien
 ***
 
 > Actualmente me encuentro aprendiendo ***Full-stack JavaScript*** con el Bootcamp de ***[Guillermo Rodas](https://guillermorodas.com/)*** y ***[Undefined Academy](https://undefined.academy/)***, tu también puedes unirte dando click en la imagen de aquí abajo👇:
+>
 > [![Undefined Academy](https://undefined.academy/assets/images/image02.jpg?v=026ad079)](https://undefined.academy/)
-
+>
 > ***Puedes ver la primera clase en diferido dando click en la imagen de aquí abajo👇***: 
-[![Undefined
+>
+>[![Undefined
 Academy](https://i.ytimg.com/vi/OTtChTyNNC4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUTwCZg8TLWEZR9_ZrFHEylITNdg)](https://www.youtube.com/watch?v=OTtChTyNNC4&list=PLKBvDYynKmlW1GrqNnwjdgoGP6PlYkxrh&index=3)
 
 ***
